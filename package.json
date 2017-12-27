@@ -1,0 +1,15 @@
+{
+  "name": "discordmeme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.8",
+    "node-notifier": "^5.1.2"
+  }
+}
